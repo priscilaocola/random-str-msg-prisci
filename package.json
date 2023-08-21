@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-prisci",
+  "version": "1.0.0",
+  "description": "Random Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " git+https://github.com/priscilaocola/random-str-msg-prisci.git"
+  },
+  "keywords": [],
+  "author": "Priscila Ocola <hola@priscilaocola.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": " https://github.com/priscilaocola/random-str-msg-prisci/issues/"
+  },
+  "homepage": " https://github.com/priscilaocola/random-str-msg-prisci#readme",
+  "bin": {
+    "random-str-msg-prisci": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
